@@ -37,6 +37,7 @@ def tampilkan_data(petugas, daftar_buku):
 
 
 # ===== PROGRAM UTAMA =====
-petugas = input_petugas()
-data_buku = input_buku()
-tampilkan_data(petugas, data_buku)
+if __name__ == "__main__":
+    petugas = input_petugas()
+    data_buku = input_buku()
+    tampilkan_data(petugas, data_buku)
