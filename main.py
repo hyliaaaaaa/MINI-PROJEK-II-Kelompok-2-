@@ -1,5 +1,5 @@
 from input_buku import input_petugas, input_buku
-from proses_buku import hitung_total_halaman, cari_buku_terbanyak,hitung_rata_rata
+from proses_buku import hitung_total_halaman, cari_buku_terbanyak
 
 def main():
     print("=== APLIKASI DATA BUKU ===\n")
