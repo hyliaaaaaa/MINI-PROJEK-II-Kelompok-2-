@@ -3,4 +3,4 @@
 
 🎧Ketua : Hany Emalia
 🐳Anggota :- Sumiati 🐙 
-            - Rizka Agustina 🐻
+            - Rizka Agustina 🐰
