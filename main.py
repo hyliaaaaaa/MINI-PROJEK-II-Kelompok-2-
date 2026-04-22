@@ -1,7 +1,6 @@
 from input_buku import input_petugas, input_buku
 from proses_buku import hitung_total_halaman, cari_buku_terbanyak, hitung_rata_rata
 
-
 def main():
     print("=== APLIKASI DATA BUKU ===")
 
@@ -23,6 +22,5 @@ def main():
     print(f"Rata-rata Halaman: {rata_rata:.2f}")
     print(f"Buku dengan halaman terbanyak: {buku_terbanyak['judul']} ({buku_terbanyak['halaman']} halaman)")
 
-
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
