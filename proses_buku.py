@@ -13,9 +13,3 @@ def cari_buku_terbanyak(daftar_buku):
             terbanyak = buku
 
     return terbanyak
-
-
-def hitung_rata_rata(daftar_buku):
-    total = hitung_total_halaman(daftar_buku)
-    rata = total / len(daftar_buku)
-    return rata
